@@ -47,6 +47,7 @@ To install and run this project locally, follow these steps:
    ```bash
    git clone https://github.com/tanzimsafin/DeFiSpring.git
    cd DeFiSpring
+   cd frontend
    ```
 
 2. **Install Dependencies**
@@ -55,21 +56,13 @@ To install and run this project locally, follow these steps:
    npm install
    ```
 
-3. **Compile Smart Contracts**
-   Ensure you have [Truffle](https://www.trufflesuite.com/truffle) installed globally. Then, run:
-   ```bash
-   truffle compile
-   ```
 
-4. **Migrate Smart Contracts**
-   Deploy the smart contracts to a local blockchain. If you don't have a local blockchain, you can use [Ganache](https://www.trufflesuite.com/ganache):
-   ```bash
-   truffle migrate
-   ```
 
-5. **Run the Project**
+
+
+3. **Run the Project**
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage
