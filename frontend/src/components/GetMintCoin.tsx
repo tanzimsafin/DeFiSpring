@@ -13,7 +13,7 @@ export default function GetMintedAmmount() {
     }
     return (
         <div>
-            <button onClick={seeDetails}>Fund Ammount</button>
+            <button  onClick={seeDetails}>Mint Token</button>
             {details &&(
                 <div>
                  {isLoading && <p>Loading...</p>}
