@@ -3,7 +3,7 @@ Here is the enhanced README file with additional details and instructions for se
 
 # DeFiSpring
 
-> This is a project to presell Token and gather Initial fund Of Eth.
+> This is a project to presell Token and gather Initial fund Of ETH.
 
 ## Table of Contents
 - [Introduction](#introduction)
